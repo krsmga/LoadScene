@@ -22,6 +22,7 @@ using UnityEngine.SceneManagement;
 /// <param name="waitInLoad">Adjusts a time in seconds during the charge cycle.</param>
 /// <param name="progressBar">Allows you to attach a Slider component to show the scene loading process.</param>
 /// <param name="waitAfterload">If 'true', it waits to execute the Execute() method to finish loading the scene.</param>
+/// </remarks>
 public class LoadScene : MonoBehaviour
 {
     [SerializeField] private bool onStart = default;
