@@ -1,9 +1,8 @@
-﻿/**
+/**
  * @author Kleber Ribeiro da Silva
  * @email krsmga@gmail.com
- * @create date 2020-06-16 09:47:15
- * @modify date 2020-06-16 09:47:15
- * @desc [description]
+ * @create date 2020-06-13 18:47:15
+ * @modify date 2020-06-16 09:23:45
  * @github https://github.com/krsmga/LoadScene
  */
 
