@@ -7,7 +7,7 @@ The LoadScene class makes it easy to call a new scene by offering different poss
 ## Steps for use
 1. Attach the **LoadScene.cs** script to any **GameObject** in the Scene.
 
-2. **On Start:** if 'true' starts loading the scene in **`Start()`** method.
+2. **On Start:** if 'true' starts loading the scene in the Start () method.
 
 3. The **Scene Name** parameter name of the scene to be called.
 
